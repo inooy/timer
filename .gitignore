@@ -13,3 +13,14 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+/.vscode
+.vscode
+/.idea/
+.idea/
+.idea
+/storage/logs/*
+/storage/uploaded/*
+/logs
+/backend
+/build
